@@ -1,0 +1,2 @@
+F:\SP\Dev\Demo\PnPSiteProvisioningConsoleApp\PnPSiteProvisioning\PnPSiteProvisioning\bin\Debug\PnPSiteProvisioning.exe.config
+F:\SP\Dev\Demo\PnPSiteProvisioningConsoleApp\PnPSiteProvisioning\PnPSiteProvisioning\obj\Debug\PnPSiteProvisioning.csprojResolveAssemblyReference.cache
